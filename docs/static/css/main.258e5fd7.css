@@ -24,7 +24,7 @@ h1 {
   width: 100%;
 }
 .app:before {
-  background: url(/static/media/sunset.7fa2c5c8f303ccf8c519.jpg) no-repeat 50% /
+  background: url(/static/media/sunset.jpg) no-repeat 50% /
     cover;
   content: "";
   height: 100%;
